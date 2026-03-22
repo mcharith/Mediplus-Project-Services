@@ -1,0 +1,9 @@
+[submodule "patient-service"]
+	path = patient-service
+	url = https://github.com/mcharith/Mediplus-Project-Service-Patient.git
+[submodule "doctor-service"]
+	path = doctor-service
+	url = https://github.com/mcharith/Mediplus-Project-Service-Doctor.git
+[submodule "appointment-service"]
+	path = appointment-service
+	url = https://github.com/mcharith/Mediplus-Project-Service-Appointment.git
